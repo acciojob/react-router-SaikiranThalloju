@@ -12,7 +12,7 @@ const Home = () => {
           <Link to="/about">About</Link>
         </li>
       </ul>
-      <h1>Welcome to my website !</h1>
+      <h1>Welcome to my website!</h1>
     </div>
   );
 };
