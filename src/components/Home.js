@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <ul>
         <li>
-          <NavLink to={"/"}>Home</NavLink>
+        <a href='/'>Home</a>
         </li>
         <li>
           <NavLink to={"/about"}>About</NavLink>
