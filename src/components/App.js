@@ -10,8 +10,8 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+        <a href = "/"><Home/></a>
         <Routes>
-            <Route path="/" element={<Home/>}/>
             <Route path="/about" element={<About/>}/>
         </Routes>
       
